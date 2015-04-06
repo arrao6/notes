@@ -1,1 +1,3 @@
 git_questions.txt
+Testing changes and committing them from git Bash !!
+
